@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a XDU sophomore majoring in SE. 🔭 I’m interested in CV and deeplearning.
+## Hi there 👋 I'm a XDU sophomore majoring in SE. 🔭 I’m interested in CV and DeepLearning.
 
 <!--
 **bury862/bury862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
